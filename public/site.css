@@ -1,0 +1,112 @@
+
+
+.container {
+    text-align: center;
+  }
+
+  .large-centered-text {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #750303; /* Wanted backround to represent Marvel colors */
+    color: white; /* White Text to see */
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ff0000; /* Darker Red for Contrast */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+
+
+h1, h2 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    margin-bottom: 20px;
+    padding: 5px;
+
+}
+
+
+
+/*for links
+add color and underline when cursor is on top */
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: #ffd700; 
+    text-decoration: underline;
+}
+
+/* style the Form */
+input[type="text"], input[type="submit"] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #a00000; /* Darker Red */
+    color: white;
+}
+
+input[type="submit"] {
+    background-color: #ffd700; 
+    color: black;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+}
+/*change the color when hovered */
+input[type="submit"]:hover {
+    background-color: #b3a000; 
+}
+
+
+ol {
+    padding-left: 20px;
+    font-size: 18px; 
+    font-family: 'Arial', sans-serif; 
+
+}
+ol li {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px; 
+    font-family: 'Arial', sans-serif; 
+
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+p {
+    line-height: 1.6;
+    font-family: 'Arial', sans-serif;
+}
+
+
+.not-found {
+    color: #ffd700; 
+    text-align: center;
+    font-weight: bold;
+}
