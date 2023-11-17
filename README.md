@@ -13,7 +13,7 @@ To install and run the project, follow these steps:
 1. Clone the repository:
 
 
-git clone [https://github.com/adarshgogineni/MarvelCharacterSearch.git](https://github.com/adarshgogineni/MarvelCharacterSearch.git)
+' git clone [https://github.com/adarshgogineni/MarvelCharacterSearch.git](https://github.com/adarshgogineni/MarvelCharacterSearch.git) '
 
 
 
