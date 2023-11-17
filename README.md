@@ -37,7 +37,15 @@ To search for a Marvel character, enter the character's name in the search bar a
 * NodeJS
 * Express
 * Axios
-* Marvel API 
+* Marvel API
+
+## Display:
+<img width="1294" alt="Screenshot 2023-11-17 at 5 06 45 PM" src="https://github.com/adarshgogineni/MarvelCharacterSearch/assets/32943978/3028eb0e-dbb8-4923-b9db-57298a05e65b">
+
+<img width="1294" alt="Screenshot 2023-11-17 at 5 06 59 PM" src="https://github.com/adarshgogineni/MarvelCharacterSearch/assets/32943978/b149e44f-5558-42ff-adbe-d4d3e81c9c2f">
+
+<img width="1294" alt="Screenshot 2023-11-17 at 5 07 49 PM" src="https://github.com/adarshgogineni/MarvelCharacterSearch/assets/32943978/f4fbf01c-e608-4e04-a875-ef18b1c3639e">
+
 
 
 
