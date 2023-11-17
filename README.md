@@ -37,6 +37,7 @@ To search for a Marvel character, enter the character's name in the search bar a
 * NodeJS
 * Express
 * Axios
+* Marvel API 
 
 
 
